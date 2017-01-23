@@ -1,0 +1,18 @@
+{
+  "name": "travel-list",
+  "homepage": "https://github.com/LeonardFollner/travel-list",
+  "authors": [
+    "Leonard Follner <Leonard.Follner@gmail.com>"
+  ],
+  "description": "A tool for planning what to take with you on a journey",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

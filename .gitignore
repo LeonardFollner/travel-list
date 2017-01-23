@@ -119,3 +119,6 @@ jspm_packages
 
 # Yarn Integrity file
 .yarn-integrity
+
+## Bower-Files
+bower_components
