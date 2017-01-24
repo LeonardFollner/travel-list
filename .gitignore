@@ -74,7 +74,7 @@ Temporary Items
 ### Node template
 # Logs
 logs
-*.log
+#*.log
 npm-debug.log*
 
 # Runtime data
@@ -87,7 +87,7 @@ pids
 lib-cov
 
 # Coverage directory used by tools like istanbul
-coverage
+#coverage
 
 # nyc test coverage
 .nyc_output
@@ -115,10 +115,13 @@ jspm_packages
 .node_repl_history
 
 # Output of 'npm pack'
-*.tgz
+#*.tgz
 
 # Yarn Integrity file
 .yarn-integrity
 
 ## Bower-Files
 bower_components
+
+## Sass-Cache
+.sass-cache
