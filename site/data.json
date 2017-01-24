@@ -1,14 +1,17 @@
 {
   "name": "list-Name",
-  "location": "Barcelona",
+  "location": "location",
   "time": "Test",
-  "id": 123546,
+  "id": 0,
   "lists": [
     {
       "name": "basic",
+      "id": 0,
+      "enabled": true,
       "items": [
         {
           "name": "Verbandszeug & Medikamente",
+          "id": "0_0",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -16,6 +19,7 @@
         },
         {
           "name": "Karteikarte mit Kontaktdaten",
+          "id": "0_1",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -23,6 +27,7 @@
         },
         {
           "name": "Reisepass / Ausweis",
+          "id": "0_2",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -30,6 +35,7 @@
         },
         {
           "name": "Girocard / Kreditkarte",
+          "id": "0_3",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -37,6 +43,7 @@
         },
         {
           "name": "(Bar-) Geld",
+          "id": "0_4",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -44,6 +51,7 @@
         },
         {
           "name": "Fremdwährung",
+          "id": "0_5",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -51,6 +59,7 @@
         },
         {
           "name": "Krankenkassenkarte",
+          "id": "0_6",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -58,6 +67,7 @@
         },
         {
           "name": "DJH-Ausweis",
+          "id": "0_7",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -65,6 +75,7 @@
         },
         {
           "name": "Kopie Impfausweis",
+          "id": "0_8",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -72,6 +83,7 @@
         },
         {
           "name": "Auslandskrankenversicherung",
+          "id": "0_9",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -79,6 +91,7 @@
         },
         {
           "name": "Zelt",
+          "id": "0_10",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -86,6 +99,7 @@
         },
         {
           "name": "Schlafsack",
+          "id": "0_11",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -93,6 +107,7 @@
         },
         {
           "name": "Seidenschlafsack",
+          "id": "0_12",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -100,6 +115,7 @@
         },
         {
           "name": "Isomatte",
+          "id": "0_13",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -107,6 +123,7 @@
         },
         {
           "name": "Klappmesser",
+          "id": "0_14",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -114,6 +131,7 @@
         },
         {
           "name": "Schweizer Taschenmesser",
+          "id": "0_15",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -121,6 +139,7 @@
         },
         {
           "name": "Multitool",
+          "id": "0_16",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -130,9 +149,12 @@
     },
     {
       "name": "kitchen",
+      "id": 1,
+      "enabled": true,
       "items": [
         {
           "name": "leichter Topf",
+          "id": "1_0",
           "checked": false,
           "enabled": true,
           "amount": 2,
@@ -140,6 +162,7 @@
         },
         {
           "name": "Göffel",
+          "id": "1_1",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -147,6 +170,7 @@
         },
         {
           "name": "Becher",
+          "id": "1_2",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -154,6 +178,7 @@
         },
         {
           "name": "Teller",
+          "id": "1_3",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -161,6 +186,7 @@
         },
         {
           "name": "Gaskocher",
+          "id": "1_4",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -168,6 +194,7 @@
         },
         {
           "name": "Reflektorfolie",
+          "id": "1_5",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -175,6 +202,7 @@
         },
         {
           "name": "Gaskartusche(n)",
+          "id": "1_6",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -182,6 +210,7 @@
         },
         {
           "name": "Windschutz",
+          "id": "1_7",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -189,6 +218,7 @@
         },
         {
           "name": "Wassersack",
+          "id": "1_8",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -196,6 +226,7 @@
         },
         {
           "name": "Salz",
+          "id": "1_9",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -203,6 +234,7 @@
         },
         {
           "name": "Kräutersalz",
+          "id": "1_10",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -210,6 +242,7 @@
         },
         {
           "name": "Pfeffer",
+          "id": "1_11",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -217,6 +250,7 @@
         },
         {
           "name": "Brotbüchse",
+          "id": "1_12",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -224,6 +258,7 @@
         },
         {
           "name": "Schneidebrett",
+          "id": "1_13",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -231,6 +266,7 @@
         },
         {
           "name": "scharfes Messer",
+          "id": "1_14",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -238,6 +274,7 @@
         },
         {
           "name": "Feuerzeug",
+          "id": "1_15",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -245,6 +282,7 @@
         },
         {
           "name": "Dosenöffner",
+          "id": "1_16",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -252,6 +290,7 @@
         },
         {
           "name": "Brot",
+          "id": "1_17",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -259,6 +298,7 @@
         },
         {
           "name": "Jogurt",
+          "id": "1_18",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -266,6 +306,7 @@
         },
         {
           "name": "Müsli",
+          "id": "1_19",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -273,6 +314,7 @@
         },
         {
           "name": "Spaghetti / Nudeln (2x 1kg)",
+          "id": "1_20",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -280,6 +322,7 @@
         },
         {
           "name": "Glas Butter",
+          "id": "1_21",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -287,6 +330,7 @@
         },
         {
           "name": "Marmelade (in Tuben)",
+          "id": "1_22",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -294,6 +338,7 @@
         },
         {
           "name": "Käse",
+          "id": "1_23",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -301,6 +346,7 @@
         },
         {
           "name": "Wurst",
+          "id": "1_24",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -308,6 +354,7 @@
         },
         {
           "name": "Nutella",
+          "id": "1_25",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -315,6 +362,7 @@
         },
         {
           "name": "Lang haltbare energiereiche Nahrungsreserve (zB getrocknetes Fleisch, Nüsse)",
+          "id": "1_26",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -322,6 +370,7 @@
         },
         {
           "name": "Magnesiumtabletten",
+          "id": "1_27",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -329,6 +378,7 @@
         },
         {
           "name": "Schwamm zum Geschirrwaschen",
+          "id": "1_28",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -336,6 +386,7 @@
         },
         {
           "name": "Spüli",
+          "id": "1_29",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -343,6 +394,7 @@
         },
         {
           "name": "Trockentuch",
+          "id": "1_30",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -350,6 +402,7 @@
         },
         {
           "name": "HARIBO",
+          "id": "1_31",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -357,6 +410,7 @@
         },
         {
           "name": "Schokolade",
+          "id": "1_32",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -364,6 +418,7 @@
         },
         {
           "name": "Waschmittel für Kleidung (oder optional Duschzeug)",
+          "id": "1_33",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -373,9 +428,12 @@
     },
     {
       "name": "clothing & body",
+      "id": 2,
+      "enabled": true,
       "items": [
         {
           "name": "Wundertuch",
+          "id": "2_0",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -383,6 +441,7 @@
         },
         {
           "name": "Mütze",
+          "id": "2_1",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -390,6 +449,7 @@
         },
         {
           "name": "Badeshorts",
+          "id": "2_2",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -397,6 +457,7 @@
         },
         {
           "name": "Kikoi",
+          "id": "2_3",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -404,6 +465,7 @@
         },
         {
           "name": "Handtuch",
+          "id": "2_4",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -411,6 +473,7 @@
         },
         {
           "name": "Zahnbürste",
+          "id": "2_5",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -418,6 +481,7 @@
         },
         {
           "name": "Rasierzeug",
+          "id": "2_6",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -425,6 +489,7 @@
         },
         {
           "name": "Deo",
+          "id": "2_7",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -432,6 +497,7 @@
         },
         {
           "name": "Duschzeug",
+          "id": "2_8",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -439,6 +505,7 @@
         },
         {
           "name": "Zahnpasta",
+          "id": "2_9",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -446,6 +513,7 @@
         },
         {
           "name": "Wäscheleine",
+          "id": "2_10",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -453,6 +521,7 @@
         },
         {
           "name": "Kaufmanns Kindercreme",
+          "id": "2_11",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -460,6 +529,7 @@
         },
         {
           "name": "Lippenstift",
+          "id": "2_12",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -467,6 +537,7 @@
         },
         {
           "name": "Arnikasalbe",
+          "id": "2_13",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -474,6 +545,7 @@
         },
         {
           "name": "Arnikaglobuli",
+          "id": "2_14",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -481,6 +553,7 @@
         },
         {
           "name": "Nagelnessesaire",
+          "id": "2_15",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -488,6 +561,7 @@
         },
         {
           "name": "Fleece / Pulli / ...",
+          "id": "2_16",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -495,6 +569,7 @@
         },
         {
           "name": "Socken",
+          "id": "2_17",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -502,6 +577,7 @@
         },
         {
           "name": "Sneakersocken",
+          "id": "2_18",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -509,6 +585,7 @@
         },
         {
           "name": "Handschuhe",
+          "id": "2_19",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -518,9 +595,12 @@
     },
     {
       "name": "electric",
+      "id": 3,
+      "enabled": true,
       "items": [
         {
           "name": "iPhone",
+          "id": "3_0",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -528,6 +608,7 @@
         },
         {
           "name": "Kamera",
+          "id": "3_1",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -535,6 +616,7 @@
         },
         {
           "name": "Ladegeräte (iPhone, Kameras, Akkus, ...)",
+          "id": "3_2",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -542,6 +624,7 @@
         },
         {
           "name": "Solarzellen",
+          "id": "3_3",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -549,6 +632,7 @@
         },
         {
           "name": "Ersatztelefon mit langer Akkulaufzeit",
+          "id": "3_4",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -556,6 +640,7 @@
         },
         {
           "name": "Garmin",
+          "id": "3_5",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -563,6 +648,7 @@
         },
         {
           "name": "(Ersatz-) Batterien (Garmin, Taschenlampe, ...)",
+          "id": "3_6",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -570,6 +656,7 @@
         },
         {
           "name": "(Ersatz-) Batterien (Tacho, Uhr, ...)",
+          "id": "3_7",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -577,6 +664,7 @@
         },
         {
           "name": "Powerbank",
+          "id": "3_8",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -584,6 +672,7 @@
         },
         {
           "name": "Karten (Garmin)",
+          "id": "3_9",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -591,6 +680,7 @@
         },
         {
           "name": "Karten (iPhone)",
+          "id": "3_10",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -598,6 +688,7 @@
         },
         {
           "name": "Geocaches",
+          "id": "3_11",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -605,6 +696,7 @@
         },
         {
           "name": "SD-Karten (Kamera)",
+          "id": "3_12",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -612,6 +704,7 @@
         },
         {
           "name": "Taschenlampe",
+          "id": "3_13",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -619,6 +712,7 @@
         },
         {
           "name": "Stirnlampe",
+          "id": "3_14",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -626,6 +720,7 @@
         },
         {
           "name": "Kopfhörer",
+          "id": "3_15",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -633,6 +728,7 @@
         },
         {
           "name": "Lautsprecher",
+          "id": "3_16",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -640,6 +736,7 @@
         },
         {
           "name": "Gorillapod",
+          "id": "3_17",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -649,9 +746,12 @@
     },
     {
       "name": "bike",
+      "id": 4,
+      "enabled": true,
       "items": [
         {
           "name": "Schlauch",
+          "id": "4_0",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -659,6 +759,7 @@
         },
         {
           "name": "Fahrradpumpe",
+          "id": "4_1",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -666,6 +767,7 @@
         },
         {
           "name": "Fahrradschloss (incl. Schlüssel)",
+          "id": "4_2",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -673,6 +775,7 @@
         },
         {
           "name": "Fahrradcomputer",
+          "id": "4_3",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -680,6 +783,7 @@
         },
         {
           "name": "Bremsklötze",
+          "id": "4_4",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -687,6 +791,7 @@
         },
         {
           "name": "Baudenzug",
+          "id": "4_5",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -694,6 +799,7 @@
         },
         {
           "name": "Speichen",
+          "id": "4_6",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -701,6 +807,7 @@
         },
         {
           "name": "Fahrradreparaturkit",
+          "id": "4_7",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -708,6 +815,7 @@
         },
         {
           "name": "Schraubenschlüssel",
+          "id": "4_8",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -715,6 +823,7 @@
         },
         {
           "name": "Imbi",
+          "id": "4_9",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -722,6 +831,7 @@
         },
         {
           "name": "Knochen",
+          "id": "4_10",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -729,6 +839,7 @@
         },
         {
           "name": "Nippelspanner",
+          "id": "4_11",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -736,6 +847,7 @@
         },
         {
           "name": "Kettenpeitsche + Zubehör",
+          "id": "4_12",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -743,6 +855,7 @@
         },
         {
           "name": "Schlauchflickzeug",
+          "id": "4_13",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -750,6 +863,7 @@
         },
         {
           "name": "Nabenmutter",
+          "id": "4_14",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -757,6 +871,7 @@
         },
         {
           "name": "Panzertape / 2-Komponenten-Kleber",
+          "id": "4_15",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -764,6 +879,7 @@
         },
         {
           "name": "Kabelbinder",
+          "id": "4_16",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -771,6 +887,7 @@
         },
         {
           "name": "Kettenflickzeug",
+          "id": "4_17",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -778,6 +895,7 @@
         },
         {
           "name": "Kettenöl",
+          "id": "4_18",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -785,6 +903,7 @@
         },
         {
           "name": "Regenjacke",
+          "id": "4_19",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -792,6 +911,7 @@
         },
         {
           "name": "Regenhose",
+          "id": "4_20",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -799,6 +919,7 @@
         },
         {
           "name": "Gamaschen",
+          "id": "4_21",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -806,6 +927,7 @@
         },
         {
           "name": "Warnweste",
+          "id": "4_22",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -813,6 +935,7 @@
         },
         {
           "name": "Fahrradhandschuhe",
+          "id": "4_23",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -820,6 +943,7 @@
         },
         {
           "name": "Helmmütze",
+          "id": "4_24",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -827,6 +951,7 @@
         },
         {
           "name": "Ersatztüte Sattel",
+          "id": "4_25",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -834,6 +959,7 @@
         },
         {
           "name": "Batterie für Kilometerzähler",
+          "id": "4_26",
           "checked": false,
           "enabled": true,
           "amount": 2,
@@ -841,6 +967,7 @@
         },
         {
           "name": "Schlüssel für Sender",
+          "id": "4_27",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -850,9 +977,12 @@
     },
     {
       "name": "instrument",
+      "id": 5,
+      "enabled": true,
       "items": [
         {
           "name": "Instrument",
+          "id": "5_0",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -860,6 +990,7 @@
         },
         {
           "name": "Noten",
+          "id": "5_1",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -867,6 +998,7 @@
         },
         {
           "name": "Stimmgerät",
+          "id": "5_2",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -874,6 +1006,7 @@
         },
         {
           "name": "Korkenfett",
+          "id": "5_3",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -881,6 +1014,7 @@
         },
         {
           "name": "Notenständer",
+          "id": "5_4",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -890,9 +1024,12 @@
     },
     {
       "name": "extra",
+      "id": 6,
+      "enabled": true,
       "items": [
         {
           "name": "Sonnencreme",
+          "id": "6_0",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -900,6 +1037,7 @@
         },
         {
           "name": "Mückenschutz",
+          "id": "6_1",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -907,6 +1045,7 @@
         },
         {
           "name": "Toilettenpapier",
+          "id": "6_2",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -914,6 +1053,7 @@
         },
         {
           "name": "Sonnenbrille",
+          "id": "6_3",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -921,6 +1061,7 @@
         },
         {
           "name": "Tagebuch",
+          "id": "6_4",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -928,6 +1069,7 @@
         },
         {
           "name": "Papier",
+          "id": "6_5",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -935,6 +1077,7 @@
         },
         {
           "name": "Kuli / Stifte",
+          "id": "6_6",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -942,6 +1085,7 @@
         },
         {
           "name": "Schnürchen",
+          "id": "6_7",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -949,6 +1093,7 @@
         },
         {
           "name": "Karabiner",
+          "id": "6_8",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -956,6 +1101,7 @@
         },
         {
           "name": "Taschentücher",
+          "id": "6_9",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -963,6 +1109,7 @@
         },
         {
           "name": "Buch",
+          "id": "6_10",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -970,6 +1117,7 @@
         },
         {
           "name": "20ct & 1€ Stück",
+          "id": "6_11",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -977,6 +1125,7 @@
         },
         {
           "name": "OhroPax",
+          "id": "6_12",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -984,6 +1133,7 @@
         },
         {
           "name": "Reiseführer / Wegbeschreibung",
+          "id": "6_13",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -991,6 +1141,7 @@
         },
         {
           "name": "Kartenspiel",
+          "id": "6_14",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -998,6 +1149,7 @@
         },
         {
           "name": "Sonstige Spiele",
+          "id": "6_15",
           "checked": false,
           "enabled": true,
           "amount": 1,
@@ -1005,6 +1157,7 @@
         },
         {
           "name": "Spezielles (z.B. für Geländespiel etc.)",
+          "id": "6_16",
           "checked": false,
           "enabled": true,
           "amount": 1,

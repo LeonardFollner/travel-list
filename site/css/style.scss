@@ -2,3 +2,26 @@ body {
   background-color: #87ceeb;
   font-family: Avenir, serif;
 }
+
+th {
+  text-align: left;
+}
+
+.list__name {
+  vertical-align: top;
+}
+
+.item__delete {
+  cursor: pointer;
+}
+
+#progress-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  background-color: #f00;
+  height: 5px;
+
+  transition: width 1s;
+}
