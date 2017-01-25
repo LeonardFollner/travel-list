@@ -8,35 +8,39 @@
     <link rel="stylesheet" type="text/css" href="css/frameworks/font-awesome.min.css">
 
     <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/js.cookie.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body>
 
-<h1>Hello World</h1>
+<h1 id="list-name">Hello World</h1>
+
+<table id="lists-list"></table>
 
 <div class="list-info">
-    <!--<form>-->
-    <div>
-        <label for="list-info__name">Name</label>
-        <input type="text" id="list-info__name">
-    </div>
-    <div>
-        <label for="list-info__location">Ort</label>
-        <input type="text" id="list-info__location">
-    </div>
-    <div>
-        <label for="list-info__start">Start</label>
-        <input type="date" id="list-info__start">
-    </div>
-    <div>
-        <label for="list-info__end">End</label>
-        <input type="date" id="list-info__end">
-    </div>
-    <div id="list-info__lists"></div>
-    <div>
-        <button class="generate-list" onclick="renderList()">Liste erstellen</button>
-    </div>
-    <!--</form>-->
+    <fieldset>
+        <legend>Neue Liste</legend>
+        <div>
+            <label for="list-info__name">Name</label>
+            <input type="text" id="list-info__name">
+        </div>
+        <div>
+            <label for="list-info__location">Ort</label>
+            <input type="text" id="list-info__location">
+        </div>
+        <div>
+            <label for="list-info__start">Start</label>
+            <input type="date" id="list-info__start">
+        </div>
+        <div>
+            <label for="list-info__end">End</label>
+            <input type="date" id="list-info__end">
+        </div>
+        <div id="list-info__lists"></div>
+        <div>
+            <button class="generate-list" onclick="newList()">Neue Liste erstellen</button>
+        </div>
+    </fieldset>
 </div>
 
 <table id="pack-list"></table>
