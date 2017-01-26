@@ -213,9 +213,19 @@ $(document).ready(function () {
     var progress = checkedItems / totalItemNumber;
     var progressString = progress * 100 + "%";
     //TODO: make the colors at ~50% nicer (e.g. find other formula)
-    var r = Math.floor((1 - progress) * 255);
-    var g = Math.floor(progress * 255);
-    var color = "rgb(" + r + ", " + g + ", 0)";
+    if(progress<0.5) {
+      var r = 255;
+      var g = Math.floor(progress * 2 * 255);
+      var color = "rgb(" + r + ", " + g + ", 0)";
+    }
+
+    else{
+      var r = Math.floor((1 - progress) * 2 * 255);
+      var g = 255;
+      var color = "rgb(" + r + ", " + g + ", 0)";
+
+    }
+
     $("#progress-bar").css("width", progressString)
       .css("background-color", color);
   }
