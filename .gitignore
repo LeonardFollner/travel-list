@@ -125,3 +125,19 @@ bower_components
 
 ## Sass-Cache
 .sass-cache
+
+## React
+# dependencies
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
