@@ -1,4 +1,4 @@
-import React, {PureComponent, PropTypes} from 'react';
+import React, {PropTypes, PureComponent} from 'react';
 import CategoryList from '../components/CategoryList';
 
 class categoryList extends PureComponent {
@@ -27,6 +27,7 @@ class categoryList extends PureComponent {
                 <h1>{this.state.categoryList.label}</h1>
                 <div>
                     <table>
+                        <tbody>
                         <tr>
                             <th>start</th>
                             <td>{this.state.categoryList.start}</td>
@@ -39,6 +40,7 @@ class categoryList extends PureComponent {
                             <th>to</th>
                             <td>{this.state.categoryList.location}</td>
                         </tr>
+                        </tbody>
                     </table>
                 </div>
                 <table>
