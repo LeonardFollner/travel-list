@@ -28,18 +28,18 @@ class categoryList extends PureComponent {
                 <div>
                     <table>
                         <tbody>
-                        <tr>
-                            <th>start</th>
-                            <td>{this.state.categoryList.start}</td>
-                        </tr>
-                        <tr>
-                            <th>end</th>
-                            <td>{this.state.categoryList.end}</td>
-                        </tr>
-                        <tr>
-                            <th>to</th>
-                            <td>{this.state.categoryList.location}</td>
-                        </tr>
+                            <tr>
+                                <th>start</th>
+                                <td>{this.state.categoryList.start}</td>
+                            </tr>
+                            <tr>
+                                <th>end</th>
+                                <td>{this.state.categoryList.end}</td>
+                            </tr>
+                            <tr>
+                                <th>to</th>
+                                <td>{this.state.categoryList.location}</td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
