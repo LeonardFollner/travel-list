@@ -1,0 +1,1170 @@
+{
+  "label": "list-label",
+  "location": "location",
+  "start": "start",
+  "end": "end",
+  "id": 0,
+  "lists": [
+    {
+      "label": "basic",
+      "id": 0,
+      "enabled": false,
+      "items": [
+        {
+          "label": "Verbandszeug & Medikamente",
+          "id": "0_0",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Karteikarte mit Kontaktdaten",
+          "id": "0_1",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Reisepass / Ausweis",
+          "id": "0_2",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Girocard / Kreditkarte",
+          "id": "0_3",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "(Bar-) Geld",
+          "id": "0_4",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Fremdwährung",
+          "id": "0_5",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Krankenkassenkarte",
+          "id": "0_6",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "DJH-Ausweis",
+          "id": "0_7",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Kopie Impfausweis",
+          "id": "0_8",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Auslandskrankenversicherung",
+          "id": "0_9",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Zelt",
+          "id": "0_10",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Schlafsack",
+          "id": "0_11",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Seidenschlafsack",
+          "id": "0_12",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Isomatte",
+          "id": "0_13",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Klappmesser",
+          "id": "0_14",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Schweizer Taschenmesser",
+          "id": "0_15",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Multitool",
+          "id": "0_16",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "label": "kitchen",
+      "id": 1,
+      "enabled": false,
+      "items": [
+        {
+          "label": "leichter Topf",
+          "id": "1_0",
+          "checked": false,
+          "enabled": false,
+          "quantity": 2,
+          "notes": ""
+        },
+        {
+          "label": "Göffel",
+          "id": "1_1",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Becher",
+          "id": "1_2",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Teller",
+          "id": "1_3",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Gaskocher",
+          "id": "1_4",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Reflektorfolie",
+          "id": "1_5",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Gaskartusche(n)",
+          "id": "1_6",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Windschutz",
+          "id": "1_7",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Wassersack",
+          "id": "1_8",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Salz",
+          "id": "1_9",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Kräutersalz",
+          "id": "1_10",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Pfeffer",
+          "id": "1_11",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Brotbüchse",
+          "id": "1_12",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Schneidebrett",
+          "id": "1_13",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "scharfes Messer",
+          "id": "1_14",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Feuerzeug",
+          "id": "1_15",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Dosenöffner",
+          "id": "1_16",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Brot",
+          "id": "1_17",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Jogurt",
+          "id": "1_18",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Müsli",
+          "id": "1_19",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Spaghetti / Nudeln (2x 1kg)",
+          "id": "1_20",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Glas Butter",
+          "id": "1_21",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Marmelade (in Tuben)",
+          "id": "1_22",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Käse",
+          "id": "1_23",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Wurst",
+          "id": "1_24",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Nutella",
+          "id": "1_25",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Lang haltbare energiereiche Nahrungsreserve (zB getrocknetes Fleisch, Nüsse)",
+          "id": "1_26",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": "(Proteinpulver am morgen oder Abend mit Milch oder Wasser)"
+        },
+        {
+          "label": "Magnesiumtabletten",
+          "id": "1_27",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Schwamm zum Geschirrwaschen",
+          "id": "1_28",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Spüli",
+          "id": "1_29",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Trockentuch",
+          "id": "1_30",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "HARIBO",
+          "id": "1_31",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Schokolade",
+          "id": "1_32",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Waschmittel für Kleidung (oder optional Duschzeug)",
+          "id": "1_33",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "label": "clothing & body",
+      "id": 2,
+      "enabled": false,
+      "items": [
+        {
+          "label": "Wundertuch",
+          "id": "2_0",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Mütze",
+          "id": "2_1",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Badeshorts",
+          "id": "2_2",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Kikoi",
+          "id": "2_3",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Handtuch",
+          "id": "2_4",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Zahnbürste",
+          "id": "2_5",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Rasierzeug",
+          "id": "2_6",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Deo",
+          "id": "2_7",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Duschzeug",
+          "id": "2_8",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Zahnpasta",
+          "id": "2_9",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Wäscheleine",
+          "id": "2_10",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Kaufmanns Kindercreme",
+          "id": "2_11",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Lippenstift",
+          "id": "2_12",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Arnikasalbe",
+          "id": "2_13",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Arnikaglobuli",
+          "id": "2_14",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Nagelnessesaire",
+          "id": "2_15",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Fleece / Pulli / ...",
+          "id": "2_16",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Socken",
+          "id": "2_17",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Sneakersocken",
+          "id": "2_18",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Handschuhe",
+          "id": "2_19",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "label": "electric",
+      "id": 3,
+      "enabled": false,
+      "items": [
+        {
+          "label": "iPhone",
+          "id": "3_0",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Kamera",
+          "id": "3_1",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Ladegeräte (iPhone, Kameras, Akkus, ...)",
+          "id": "3_2",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Solarzellen",
+          "id": "3_3",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Ersatztelefon mit langer Akkulaufzeit",
+          "id": "3_4",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Garmin",
+          "id": "3_5",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "(Ersatz-) Batterien (Garmin, Taschenlampe, ...)",
+          "id": "3_6",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "(Ersatz-) Batterien (Tacho, Uhr, ...)",
+          "id": "3_7",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Powerbank",
+          "id": "3_8",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Karten (Garmin)",
+          "id": "3_9",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Karten (iPhone)",
+          "id": "3_10",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Geocaches",
+          "id": "3_11",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "SD-Karten (Kamera)",
+          "id": "3_12",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Taschenlampe",
+          "id": "3_13",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Stirnlampe",
+          "id": "3_14",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Kopfhörer",
+          "id": "3_15",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Lautsprecher",
+          "id": "3_16",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Gorillapod",
+          "id": "3_17",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "label": "bike",
+      "id": 4,
+      "enabled": false,
+      "items": [
+        {
+          "label": "Schlauch",
+          "id": "4_0",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Fahrradpumpe",
+          "id": "4_1",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Fahrradschloss (incl. Schlüssel)",
+          "id": "4_2",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Fahrradcomputer",
+          "id": "4_3",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Bremsklötze",
+          "id": "4_4",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Baudenzug",
+          "id": "4_5",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Speichen",
+          "id": "4_6",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Fahrradreparaturkit",
+          "id": "4_7",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Schraubenschlüssel",
+          "id": "4_8",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Imbi",
+          "id": "4_9",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Knochen",
+          "id": "4_10",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Nippelspanner",
+          "id": "4_11",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Kettenpeitsche + Zubehör",
+          "id": "4_12",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Schlauchflickzeug",
+          "id": "4_13",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Nabenmutter",
+          "id": "4_14",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Panzertape / 2-Komponenten-Kleber",
+          "id": "4_15",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Kabelbinder",
+          "id": "4_16",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Kettenflickzeug",
+          "id": "4_17",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Kettenöl",
+          "id": "4_18",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Regenjacke",
+          "id": "4_19",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Regenhose",
+          "id": "4_20",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Gamaschen",
+          "id": "4_21",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Warnweste",
+          "id": "4_22",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Fahrradhandschuhe",
+          "id": "4_23",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Helmmütze",
+          "id": "4_24",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Ersatztüte Sattel",
+          "id": "4_25",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Batterie für Kilometerzähler",
+          "id": "4_26",
+          "checked": false,
+          "enabled": false,
+          "quantity": 2,
+          "notes": ""
+        },
+        {
+          "label": "Schlüssel für Sender",
+          "id": "4_27",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "label": "instrument",
+      "id": 5,
+      "enabled": false,
+      "items": [
+        {
+          "label": "Instrument",
+          "id": "5_0",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Noten",
+          "id": "5_1",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Stimmgerät",
+          "id": "5_2",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Korkenfett",
+          "id": "5_3",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Notenständer",
+          "id": "5_4",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "label": "extra",
+      "id": 6,
+      "enabled": false,
+      "items": [
+        {
+          "label": "Sonnencreme",
+          "id": "6_0",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Mückenschutz",
+          "id": "6_1",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Toilettenpapier",
+          "id": "6_2",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Sonnenbrille",
+          "id": "6_3",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Tagebuch",
+          "id": "6_4",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Papier",
+          "id": "6_5",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Kuli / Stifte",
+          "id": "6_6",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Schnürchen",
+          "id": "6_7",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Karabiner",
+          "id": "6_8",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Taschentücher",
+          "id": "6_9",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Buch",
+          "id": "6_10",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "20ct & 1€ Stück",
+          "id": "6_11",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "OhroPax",
+          "id": "6_12",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Reiseführer / Wegbeschreibung",
+          "id": "6_13",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Kartenspiel",
+          "id": "6_14",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Sonstige Spiele",
+          "id": "6_15",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        },
+        {
+          "label": "Spezielles (z.B. für Geländespiel etc.)",
+          "id": "6_16",
+          "checked": false,
+          "enabled": false,
+          "quantity": 1,
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}
