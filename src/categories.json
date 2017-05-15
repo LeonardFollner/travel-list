@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "seasons": {
+      "winter": false,
+      "spring": false,
+      "summer": false,
+      "autumn": false
+    },
+    "transport": {
+      "bike": false,
+      "caravan": false,
+      "car": false,
+      "bus": false
+    },
+    "accommodation": {
+      "tent": false,
+      "caravan": false,
+      "hotel": false,
+      "hut": false,
+      "flat": false
+    },
+    "type": {
+      "instrument": false,
+      "business": false,
+      "vacation": false,
+      "basic": false
+    }
+  }
+}

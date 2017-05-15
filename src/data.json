@@ -16,7 +16,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Karteikarte mit Kontaktdaten",
@@ -24,7 +51,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Reisepass / Ausweis",
@@ -32,7 +86,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Girocard / Kreditkarte",
@@ -40,7 +121,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "(Bar-) Geld",
@@ -48,7 +156,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Fremdwährung",
@@ -56,7 +191,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Krankenkassenkarte",
@@ -64,7 +226,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "DJH-Ausweis",
@@ -72,7 +261,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Kopie Impfausweis",
@@ -80,7 +296,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Auslandskrankenversicherung",
@@ -88,7 +331,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Zelt",
@@ -96,7 +366,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Schlafsack",
@@ -104,7 +401,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Seidenschlafsack",
@@ -112,7 +436,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": true,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Isomatte",
@@ -120,7 +471,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Klappmesser",
@@ -128,7 +506,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Schweizer Taschenmesser",
@@ -136,7 +541,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Multitool",
@@ -144,7 +576,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         }
       ]
     },
@@ -159,7 +618,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 2,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Göffel",
@@ -167,7 +653,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Becher",
@@ -175,7 +688,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": false,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Teller",
@@ -183,7 +723,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Gaskocher",
@@ -191,7 +758,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": false,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Reflektorfolie",
@@ -199,7 +793,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Gaskartusche(n)",
@@ -207,7 +828,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Windschutz",
@@ -215,7 +863,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Wassersack",
@@ -223,7 +898,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": true,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Salz",
@@ -231,7 +933,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Kräutersalz",
@@ -239,7 +968,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Pfeffer",
@@ -247,7 +1003,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Brotbüchse",
@@ -255,7 +1038,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Schneidebrett",
@@ -263,7 +1073,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "scharfes Messer",
@@ -271,7 +1108,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": false,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Feuerzeug",
@@ -279,7 +1143,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Dosenöffner",
@@ -287,7 +1178,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Brot",
@@ -295,7 +1213,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Jogurt",
@@ -303,7 +1248,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Müsli",
@@ -311,7 +1283,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": true
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Spaghetti / Nudeln (2x 1kg)",
@@ -319,7 +1318,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": true
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Glas Butter",
@@ -327,7 +1353,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": true
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Marmelade (in Tuben)",
@@ -335,7 +1388,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": true
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Käse",
@@ -343,7 +1423,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": true
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Wurst",
@@ -351,7 +1458,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": true
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Nutella",
@@ -359,7 +1493,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": true
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Lang haltbare energiereiche Nahrungsreserve (zB getrocknetes Fleisch, Nüsse)",
@@ -367,7 +1528,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": "(Proteinpulver am morgen oder Abend mit Milch oder Wasser)"
+          "notes": "(Proteinpulver am morgen oder Abend mit Milch oder Wasser)",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Magnesiumtabletten",
@@ -375,7 +1563,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Schwamm zum Geschirrwaschen",
@@ -383,7 +1598,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": true
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Spüli",
@@ -391,7 +1633,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Trockentuch",
@@ -399,7 +1668,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "HARIBO",
@@ -407,7 +1703,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Schokolade",
@@ -415,7 +1738,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": true,
+              "spring": true,
+              "summer": false,
+              "autumn": true
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Waschmittel für Kleidung (oder optional Duschzeug)",
@@ -423,7 +1773,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         }
       ]
     },
@@ -438,7 +1815,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": true,
+              "spring": false,
+              "summer": false,
+              "autumn": true
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Mütze",
@@ -446,7 +1850,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": true,
+              "spring": false,
+              "summer": false,
+              "autumn": true
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Badeshorts",
@@ -454,7 +1885,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": true,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Kikoi",
@@ -462,7 +1920,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": true,
+              "summer": true,
+              "autumn": true
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Handtuch",
@@ -470,7 +1955,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Zahnbürste",
@@ -478,7 +1990,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Rasierzeug",
@@ -486,7 +2025,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Deo",
@@ -494,7 +2060,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Duschzeug",
@@ -502,7 +2095,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Zahnpasta",
@@ -510,7 +2130,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Wäscheleine",
@@ -518,7 +2165,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Kaufmanns Kindercreme",
@@ -526,7 +2200,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Lippenstift",
@@ -534,7 +2235,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Arnikasalbe",
@@ -542,7 +2270,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Arnikaglobuli",
@@ -550,7 +2305,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Nagelnessesaire",
@@ -558,7 +2340,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Fleece / Pulli / ...",
@@ -566,7 +2375,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Socken",
@@ -574,7 +2410,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Sneakersocken",
@@ -582,7 +2445,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": true,
+              "summer": true,
+              "autumn": true
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Handschuhe",
@@ -590,7 +2480,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": true,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         }
       ]
     },
@@ -605,7 +2522,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Kamera",
@@ -613,7 +2557,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Ladegeräte (iPhone, Kameras, Akkus, ...)",
@@ -621,7 +2592,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Solarzellen",
@@ -629,7 +2627,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": true,
+              "summer": true,
+              "autumn": true
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Ersatztelefon mit langer Akkulaufzeit",
@@ -637,7 +2662,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Garmin",
@@ -645,7 +2697,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": true,
+              "basic": false
+            }
+          }
         },
         {
           "label": "(Ersatz-) Batterien (Garmin, Taschenlampe, ...)",
@@ -653,7 +2732,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "(Ersatz-) Batterien (Tacho, Uhr, ...)",
@@ -661,7 +2767,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Powerbank",
@@ -669,7 +2802,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Karten (Garmin)",
@@ -677,7 +2837,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": true,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Karten (iPhone)",
@@ -685,7 +2872,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Geocaches",
@@ -693,7 +2907,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "SD-Karten (Kamera)",
@@ -701,7 +2942,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Taschenlampe",
@@ -709,7 +2977,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Stirnlampe",
@@ -717,7 +3012,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": true,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Kopfhörer",
@@ -725,7 +3047,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Lautsprecher",
@@ -733,7 +3082,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Gorillapod",
@@ -741,7 +3117,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         }
       ]
     },
@@ -756,7 +3159,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Fahrradpumpe",
@@ -764,7 +3194,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Fahrradschloss (incl. Schlüssel)",
@@ -772,7 +3229,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Fahrradcomputer",
@@ -780,7 +3264,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Bremsklötze",
@@ -788,7 +3299,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Baudenzug",
@@ -796,7 +3334,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Speichen",
@@ -804,7 +3369,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Fahrradreparaturkit",
@@ -812,7 +3404,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Schraubenschlüssel",
@@ -820,7 +3439,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Imbi",
@@ -828,7 +3474,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Knochen",
@@ -836,7 +3509,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Nippelspanner",
@@ -844,7 +3544,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Kettenpeitsche + Zubehör",
@@ -852,7 +3579,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Schlauchflickzeug",
@@ -860,7 +3614,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Nabenmutter",
@@ -868,7 +3649,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Panzertape / 2-Komponenten-Kleber",
@@ -876,7 +3684,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Kabelbinder",
@@ -884,7 +3719,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Kettenflickzeug",
@@ -892,7 +3754,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Kettenöl",
@@ -900,7 +3789,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Regenjacke",
@@ -908,7 +3824,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Regenhose",
@@ -916,7 +3859,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Gamaschen",
@@ -924,7 +3894,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Warnweste",
@@ -932,7 +3929,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": true,
+              "car": true,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Fahrradhandschuhe",
@@ -940,7 +3964,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Helmmütze",
@@ -948,7 +3999,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Ersatztüte Sattel",
@@ -956,7 +4034,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Batterie für Kilometerzähler",
@@ -964,7 +4069,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 2,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Schlüssel für Sender",
@@ -972,7 +4104,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         }
       ]
     },
@@ -987,7 +4146,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": true,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Noten",
@@ -995,7 +4181,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": true,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Stimmgerät",
@@ -1003,7 +4216,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": true,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Korkenfett",
@@ -1011,7 +4251,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": true,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Notenständer",
@@ -1019,7 +4286,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": true,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         }
       ]
     },
@@ -1034,7 +4328,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": true,
+              "autumn": true
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Mückenschutz",
@@ -1042,7 +4363,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Toilettenpapier",
@@ -1050,7 +4398,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": true,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Sonnenbrille",
@@ -1058,7 +4433,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": true,
+              "autumn": false
+            },
+            "transport": {
+              "bike": true,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Tagebuch",
@@ -1066,7 +4468,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": true,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Papier",
@@ -1074,7 +4503,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": true,
+              "vacation": true,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Kuli / Stifte",
@@ -1082,7 +4538,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": true,
+              "business": true,
+              "vacation": true,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Schnürchen",
@@ -1090,7 +4573,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": false,
+              "hotel": false,
+              "hut": true,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Karabiner",
@@ -1098,7 +4608,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": true,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Taschentücher",
@@ -1106,7 +4643,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Buch",
@@ -1114,7 +4678,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": true,
+              "vacation": true,
+              "basic": false
+            }
+          }
         },
         {
           "label": "20ct & 1€ Stück",
@@ -1122,7 +4713,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "OhroPax",
@@ -1130,7 +4748,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Reiseführer / Wegbeschreibung",
@@ -1138,7 +4783,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": true,
+              "basic": false
+            }
+          }
         },
         {
           "label": "Kartenspiel",
@@ -1146,7 +4818,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Sonstige Spiele",
@@ -1154,7 +4853,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         },
         {
           "label": "Spezielles (z.B. für Geländespiel etc.)",
@@ -1162,7 +4888,34 @@
           "checked": false,
           "enabled": false,
           "quantity": 1,
-          "notes": ""
+          "notes": "",
+          "categories": {
+            "season": {
+              "winter": false,
+              "spring": false,
+              "summer": false,
+              "autumn": false
+            },
+            "transport": {
+              "bike": false,
+              "caravan": false,
+              "car": false,
+              "bus": false
+            },
+            "accommodation": {
+              "tent": false,
+              "caravan": false,
+              "hotel": false,
+              "hut": false,
+              "flat": false
+            },
+            "type": {
+              "instrument": false,
+              "business": false,
+              "vacation": false,
+              "basic": true
+            }
+          }
         }
       ]
     }

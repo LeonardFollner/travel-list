@@ -16,14 +16,17 @@
     "classnames": "^2.2.5",
     "font-awesome": "^4.6.3",
     "immutable": "^3.8.1",
+    "js-cookie": "^2.1.4",
+    "materialize-css": "^0.98.2",
     "moment": "^2.14.1",
     "moment-timezone": "^0.5.5",
-    "plow-js": "^1.2.0",
+    "plow-js": "^1.2.1",
     "react": "^15.4.2",
     "react-app-rewired": "^0.6.5",
     "react-dom": "^15.4.2",
     "react-router": "^2.8.1",
-    "sass-lint": "^1.10.2"
+    "sass-lint": "^1.10.2",
+    "uuid": "^3.0.1"
   },
   "scripts": {
     "start": "react-app-rewired start",
